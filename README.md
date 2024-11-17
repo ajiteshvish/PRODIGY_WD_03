@@ -86,11 +86,6 @@ PRODIGY-WD-03/
 
 ---
 
-## License 📜
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 ## Acknowledgments 🙌
 - Developed by **Ajitesh Vishwakarma**.
